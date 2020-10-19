@@ -1,2 +1,2 @@
 # Gitlearning
-This is learning.
+Learning GitHub advanced commands.
